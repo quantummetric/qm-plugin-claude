@@ -1,0 +1,18 @@
+{
+  "name": "quantum-metric",
+  "description": "Quantum Metric plugins for Claude Code",
+  "owner": {
+    "name": "Quantum Metric",
+    "url": "https://www.quantummetric.com"
+  },
+  "plugins": [
+    {
+      "name": "quantum-metric",
+      "source": "./",
+      "description": "Analyze funnels, errors, friction and session replays in Quantum Metric to find and fix digital experience issues",
+      "version": "0.2.2",
+      "category": "analytics",
+      "homepage": "https://www.quantummetric.com"
+    }
+  ]
+}
