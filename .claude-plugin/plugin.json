@@ -1,6 +1,6 @@
 {
   "name": "quantum-metric",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Analyze funnels, errors, friction and session replays in Quantum Metric to find and fix digital experience issues",
   "author": {
     "name": "Quantum Metric",
@@ -20,5 +20,7 @@
   ],
   "icon": "./logo.png",
   "privacyPolicyUrl": "https://www.quantummetric.com/legal/privacy-policy",
-  "termsOfServiceUrl": "https://iam.quantummetric.com/terms-and-conditions"
+  "termsOfServiceUrl": "https://iam.quantummetric.com/terms-and-conditions",
+  "supportUrl": "https://thequad.quantummetric.com/",
+  "documentationUrl": "https://www.quantummetric.com/platform/mcp"
 }
